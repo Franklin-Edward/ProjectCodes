@@ -47,7 +47,7 @@ class MenuDriven{
         return false;
     }
 }
-class Main{
+class MenuDrivenMain{
     public static void main(String args[]){
         MenuDriven menu = new MenuDriven();
         Scanner scan = new Scanner(System.in);
