@@ -1,6 +1,0 @@
-ID            Name                    Emp_type           Joining_date     Status
-1              Suma                     CONTRACTOR    01-Feb-2021       Active
-2              Vishnupriya        FULL_TIME         13-Feb-2020       Active
-3              Sharath                 FULL_TIME         16-Jan-2020        Active
-4              Tejaswi                 FULL_TIME         01-Jan-2022        InActive
-5              Niyathi                  FULL_TIME         01-Aug-2022       Active
